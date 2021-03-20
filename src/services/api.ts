@@ -1,5 +1,4 @@
-const ACCESS_TOKEN_MAP_BOX =
-  'access_token=pk.eyJ1IjoiZWx0b25sYXp6YXJpbiIsImEiOiJja2c3YTVlYzkwNWdiMnJvMmo3Y2lodWx4In0.AnK-zQXNEjwNaTmq1mbI_g';
+const ACCESS_TOKEN_MAP_BOX = 'INSERT_YOUR_MAP_BOX_TOKEN_HERE';
 
 export const fetchLocalMapBox = (local: string) =>
   fetch(
