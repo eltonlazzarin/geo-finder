@@ -1,5 +1,6 @@
 <h1 align="center">
-	<img alt="Logo" src="https://github.com/eltonlazzarin/geo-finder/blob/master/web/screenshots/nlw1.svg" />
+	<img alt="Logo" src="	<img alt="Logo" src="https://github.com/eltonlazzarin/geo-finder/blob/master/web/screenshots/nlw1.svghttps://flyclipart.com/thumb2/location-icon-map-png-22946.png" />
+" />
 </h1>
 
 <h3 align="center">
@@ -32,7 +33,9 @@
 	<img alt="GitHub Image Header" src="https://github.com/eltonlazzarin/geo-finder/blob/master/web/screenshots/githubimageheader.png" />
 </h1>
 
-<p></p>
+<p>GeoFinder is a small project created in React Native with the help of Expo, which aims to work with maps and the MapBox api.
+
+With this mobile application, the customer can search by name of GitHub users and, know the location of this user on the map in an approximate way, according to the data provided in the account registration.</p>
 
 ## 🚀 Mobile Technologies
 
