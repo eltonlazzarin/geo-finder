@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img alt="Logo" src="https://flyclipart.com/thumb2/location-icon-map-png-22946.png" />
+	<img alt="Logo" src="https://github.com/eltonlazzarin/geo-finder/blob/main/assets/finderIcon.svg" />
 </h1>
 
 <h3 align="center">
