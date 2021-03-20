@@ -43,7 +43,6 @@ Technologies that I used to develop this mobile app
 - [Expo](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/docs)
 - [Expo-Location](https://docs.expo.io/versions/latest/sdk/location)
-- [Axios](https://github.com/axios/axios)
 - [React-Navigation-Stack](https://github.com/react-navigation)
 - [React-Native-Maps](https://github.com/react-native-community/react-native-maps)
 - [VS Code](https://code.visualstudio.com) with [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) and [Prettier RC](https://github.com/prettier/prettier)
