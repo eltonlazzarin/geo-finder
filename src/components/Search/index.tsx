@@ -17,7 +17,7 @@ export default function Search({
     let { status } = await Location.requestPermissionsAsync();
 
     if (status !== 'granted') {
-      Alert.alert('Ops!', 'Permissão de acesso a localização negada.');
+      Alert.alert('Oops!', 'Access to location denied.');
     }
 
     let {
