@@ -35,7 +35,7 @@ With this mobile application, the customer can search by name of GitHub users an
 ## 🚀 Mobile Technologies
 
 <h1 align="center">
-	<img alt="Mobile App Screenshots" src="https://github.com/eltonlazzarin/geo-finder/blob/main/screenshots/geofinder.PNG" hight="380" width="350" />
+	<img alt="Mobile App Screenshots" src="https://github.com/eltonlazzarin/geo-finder/blob/main/screenshots/geofinder.PNG" />
 </h1>
 
 Technologies that I used to develop this mobile app
